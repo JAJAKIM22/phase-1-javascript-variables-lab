@@ -1,6 +1,6 @@
 // Code your solution in this file!
-const companyName = 'Moringa';
+const companyName = 'Scuber';
 
-let mostProfitableNeighborhood = 'NGONG';
+let mostProfitableNeighborhood = 'Chelsea';
 
-let companyCeo = 'Peter Kimani';
+let companyCeo = 'Susan Smith';
